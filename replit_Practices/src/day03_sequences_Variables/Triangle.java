@@ -1,0 +1,23 @@
+package day03_sequences_Variables;
+
+
+/*
+task             ^
+                / \
+               /   \
+              /     \
+              _______
+ */
+public class Triangle {
+    public static void main(String[] args) {
+
+        System.out.println("\t     ^");
+        System.out.println("\t    / \\");
+        System.out.println("\t   /   \\");
+        System.out.println("\t  /     \\");
+        System.out.println("\t /       \\");
+        System.out.println("\t __________");
+
+    }
+
+}
