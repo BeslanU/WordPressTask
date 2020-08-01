@@ -3,5 +3,6 @@ public class HappyB20 {
         System.out.println();
         System.out.println("Helo");
         System.out.println("Java");
+        System.out.println("JavaSript");
     }
 }
